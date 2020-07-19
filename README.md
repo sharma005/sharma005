@@ -10,5 +10,4 @@
 - 📫 How to reach me: email: abhishek.sharma.sdbct@gmail.com
       website: sharmaabhishek.tech
 - 😄 Pronouns: he / his
-- ⚡ Fun fact: ...
 
