@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on UI development for web and android, ios appliaction.
+- 🔭 I’m currently working on UI development for web and android, ios applications.
 - 🌱 I’m currently learning app development.
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤔 I’m looking for help with VelocityX documentation.
