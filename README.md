@@ -59,7 +59,7 @@
 
 
 <a href="https://github.com/sharma005/jarvis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" />
+  <img align="center" src="https://github.com/sharma005/jarvis&theme=dark" />
 
 </a>
 <a href="https://github.com/iampawan/VelocityX">
