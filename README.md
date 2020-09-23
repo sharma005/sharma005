@@ -30,7 +30,7 @@
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤔 I’m looking for help with AI ML documentation.
 - 💬 Ask me about any tech related stuff including cloud, app as well as web technologies.
-- 📫 How to reach me: email: abhishek.sharma.sdbct@gmail.com, Another Website https://abhisheksdbct.live
+- 📫 How to reach me: email: abhishek.sharma.sdbct@gmail.com, Another Website https://www.abhisheksdbct.live/
 - 😄 Pronouns: He/His
 
 
