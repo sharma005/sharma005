@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on UI development for web and android, ios applications.
 - 🌱 I’m currently learning app development.
 - 👯 I’m looking to collaborate on some open source projects.
-- 🤔 I’m looking for help with VelocityX documentation.
+- 🤔 I’m looking for help with AI ML documentation.
 - 💬 Ask me about any tech related stuff including cloud, app as well as web technologies.
 - 📫 How to reach me: email: abhishek.sharma.sdbct@gmail.com, Another Website https://abhisheksdbct.live
 - 😄 Pronouns: He/His
