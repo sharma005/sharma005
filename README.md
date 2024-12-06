@@ -28,7 +28,7 @@
 - 🔭 I’m currently working as SOC analyst | CEH | Splunk Power User
 - 🌱 I’m currently learning cloud security and pentesting.
 - 👯 I’m looking to collaborate on some open source projects.
-- 🤔 I’m looking for help with AI based SOC/SIEM focumentation.
+- 🤔 I’m looking for help with AI based SOC/SIEM documentation.
 - 💬 Ask me about any tech related stuff including IR, SIEM, SOAR, UEBA, cloud security.
 - 📫 How to reach me: email: abhishek.sharma.sdbct@gmail.com, Another Website https://www.abhisheksdbct.live/
 - 😄 Pronouns: He/His
